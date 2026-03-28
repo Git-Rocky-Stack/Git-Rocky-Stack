@@ -8,7 +8,7 @@ Git-Rocky-Stack ReadMe
 
 
 
-&#x20; Founder \& Principal Consultant at \*\*\[Strategia-X](https://www.strategia-x.com)\*\* — Elite IT \& Business Operations Consulting.
+&#x20; Founder \& Principal Consultant at Strategia-X - https://www.strategia-x.com - Elite IT \& Business Operations Consulting.
 
 
 
