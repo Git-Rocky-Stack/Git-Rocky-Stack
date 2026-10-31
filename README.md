@@ -34,7 +34,7 @@ Git-Rocky-Stack ReadMe
 
 &#x20; - \[STX.1](https://stx-1.com) — System Monitor for Windows
 
-&#x20; - \[Android Architect](https://android-x.com) — AI App Engineering
+&#x20; - \[Android Architect](https://android-x.app) — AI App Engineering
 
 &#x20; - \[WealthWise OS](https://wealthwiseos.com) — AI Financial Planning
 
